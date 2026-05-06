@@ -42,3 +42,28 @@
 </div>
 
 **Try these commands once it loads:**
+
+### **Tech Stack**
+- **Frontend**: Vanilla JS + TailwindCSS via CDN
+- **Storage**: In-memory JS objects. Refresh = reset
+- **Hosting**: GitHub Pages - 100% static, zero build step
+
+### **Roadmap**
+- [ ] `follow <user>` - subscribe to public posts
+- [ ] `like <postId>` - engagement
+- [ ] `localStorage` - persist users/posts on refresh
+- [ ] `export <username>` - download account data as JSON
+
+### **Contributing**
+See [`CONTRIBUTING.md`](CONTRIBUTING.md). PRs welcome.
+
+### **License**
+MIT © 2026 callmecoffee3
+
+---
+
+<div align="center">
+
+**[🚀 Launch TheFam Terminal](https://callmecoffee3.github.io/doaashow-thefam-terminal/)**
+
+</div>
